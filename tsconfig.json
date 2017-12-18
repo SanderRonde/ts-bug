@@ -1,0 +1,9 @@
+{
+    "compilerOptions": {
+		"target": "es3",
+		"lib": ["es2015"]
+	}, 
+    "include": [
+        "test.ts"
+    ]
+}
